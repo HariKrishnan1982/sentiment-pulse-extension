@@ -27,6 +27,6 @@ Sentiment Pulse is a Chrome browser extension that performs real-time sentiment 
 This extension only analyzes publicly visible text and does not collect private data, cookies, or user credentials.
 
 ## Future Enhancements
-- Multilingual sentiment analysis
-- Toxic comment detection
-- Creator-focused analytics dashboard
+- Multilingual sentiment analysis (future)
+- Toxic comment detection and hides the text if possible
+- Creator-focused analytics dashboard at the extention pannel
