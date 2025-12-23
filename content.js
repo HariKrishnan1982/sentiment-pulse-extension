@@ -1,4 +1,3 @@
-// content.js
 // Ultra-stable, error-proof version (class-based styling only)
 
 setTimeout(() => {
@@ -36,3 +35,4 @@ setTimeout(() => {
     );
   });
 }, 3000);
+
