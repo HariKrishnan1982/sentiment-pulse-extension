@@ -3,7 +3,7 @@ from flask_cors import CORS
 from textblob import TextBlob
 
 app = Flask(__name__)
-CORS(app)  # 🔥 THIS IS THE FIX
+CORS(app)
 
 @app.route("/analyze", methods=["POST"])
 def analyze():
@@ -30,3 +30,4 @@ def analyze():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
