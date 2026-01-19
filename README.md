@@ -30,3 +30,4 @@ This extension only analyzes publicly visible text and does not collect private 
 - Multilingual sentiment analysis (future)
 - Toxic comment detection and hides the text if possible
 - Creator-focused analytics dashboard at the extention pannel in the browser.
+<!-- update 1 -->
