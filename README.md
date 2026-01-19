@@ -32,3 +32,4 @@ This extension only analyzes publicly visible text and does not collect private 
 - Creator-focused analytics dashboard at the extention pannel in the browser.
 <!-- update 1 -->
 <!-- update 2 -->
+<!-- update 3 -->
