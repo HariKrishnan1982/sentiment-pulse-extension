@@ -46,3 +46,4 @@ This extension only analyzes publicly visible text and does not collect private 
 <!-- update 14 -->
 <!-- update 15 -->
 <!-- update 16 -->
+<!-- update 17 -->
