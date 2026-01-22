@@ -16,4 +16,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     });
   return true; // keep channel open
 });
+//the background keeps running to make the extension running as a ebtry level extension as its not yet published yet
+
 
