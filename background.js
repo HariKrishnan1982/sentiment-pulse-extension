@@ -1,6 +1,5 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.type !== "ANALYZE") return;
-
   fetch("http://127.0.0.1:5000/analyze", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -15,6 +14,6 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
       console.warn("Backend fetch failed:", err.message);
       sendResponse({ error: true });
     });
-
   return true; // keep channel open
 });
+
